@@ -9,7 +9,7 @@ package collection.set;
  * @author fadillarizky
  */
 public class Coin {
-    private int denomination:
+    private int denomination;
     
     public Coin(int denomination) {
         this.denomination = denomination;
